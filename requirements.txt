@@ -1,7 +1,5 @@
-﻿streamlit
-sqlite3
+streamlit
 transformers
 gTTS
 matplotlib
 numpy
-sqlite3
