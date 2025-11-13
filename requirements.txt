@@ -4,3 +4,4 @@ transformers
 gTTS
 matplotlib
 numpy
+sqlite3
