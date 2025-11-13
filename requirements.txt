@@ -1,0 +1,6 @@
+﻿streamlit
+sqlite3
+transformers
+gTTS
+matplotlib
+numpy
