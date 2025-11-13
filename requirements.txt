@@ -3,3 +3,4 @@ transformers
 gTTS
 matplotlib
 numpy
+sentence-transformers
